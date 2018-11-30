@@ -1,15 +1,16 @@
 {
     "name": "munx/form",
     "description": "a demo fo munx do something",
-	"license": "MIT License",
     "authors": [
         {
             "name": "munx",
             "email": "munxmayun@163.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
     "autoload": {
         "psr-4": {
             "munxForm\\": "src/"
