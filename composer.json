@@ -1,6 +1,7 @@
 {
     "name": "munx/form",
     "description": "a demo fo munx do something",
+	"license": "MIT License",
     "authors": [
         {
             "name": "munx",
