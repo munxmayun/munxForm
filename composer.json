@@ -1,0 +1,17 @@
+{
+    "name": "munx/form",
+    "description": "a demo fo munx do something",
+    "authors": [
+        {
+            "name": "munx",
+            "email": "munxmayun@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "munxForm\\": "src/"
+        }
+    }
+}
